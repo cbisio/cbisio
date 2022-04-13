@@ -11,12 +11,13 @@ Here are some ideas to get you started:
 - 📫 How to reach me: camibisiob@hotmail.com
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: ...
+
 -->
 
 
 ### Hi there, I'm Camila 👋
 
-- <img height="15" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/ruby/ruby.png">     I’m currently working as a Backend Engineer     
-- 🌱 I’m currently doing a Master Degree in Organizational Engineering, Project and Business Management
+- <img height="18" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/ruby/ruby.png">     I’m currently working as a Backend Engineer     
+- <a href="https://universidadeuropea.com/master-ingenieria-organizacion-industrial-online/"><img height="18" src="https://www.vidasostenible.org/wp-content/uploads/2019/11/UEM_1.jpg"></a> I’m currently doing a Master Degree in Organizational Engineering, Project and Business Management
 - 😊 Pronouns: she/her
 - 🐶 Fun fact: My dog looks like an ewok, and sometimes helps me _rubber duck debugging_ 
