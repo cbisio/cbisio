@@ -16,7 +16,6 @@ Here are some ideas to get you started:
 
 
 ### Hi there, I'm Camila 👋
-- 🔭 I’m currently working as a Backend Engineer     
-- 🌱 I’m currently doing a Master Degree in Organizational Engineering, Project and Business Management
+- 🔭 I’m currently working as a Software Engineer     
 - 😊 Pronouns: she/her
 - 🐶 Fun fact: My dog looks like an ewok, and sometimes helps me _rubber duck debugging_ 
