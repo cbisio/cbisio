@@ -16,6 +16,6 @@ Here are some ideas to get you started:
 
 
 ### Hi there, I'm Camila 👋
-- 🔭 I’m currently working as a Software Engineer     
+- 🔭 I’m currently working as a Senior Software Engineer     
 - 😊 Pronouns: she/her
 - 🐶 Fun fact: My dog looks like an ewok, and sometimes helps me _rubber duck debugging_ 
